@@ -1,0 +1,45 @@
+/*index css*/
+body{
+    font-family: 'PT Sans', sans-serif;
+    background-color: rgb(240, 243, 244 );
+    color: rgb(17,122,11);
+}
+
+h1{
+    font-family: 'Fjalla One', sans-serif;    
+}
+
+p{
+    font-family: 'Raleway', sans-serif;
+}
+
+a{
+}
+
+a:hover{
+}
+a:active{
+    
+}
+
+.btn-1{
+
+}
+
+.btn-1:hover{
+    background: #e5dc15;
+    color: #0e79b2;
+}
+/* font-family: 'Coda Caption', sans-serif;*/
+
+/*font-family: 'Raleway', sans-serif;*/
+
+
+/*bold*/
+/* font-family: 'Fjalla One', sans-serif; */
+
+/*light*/
+/* font-family: 'Open Sans', sans-serif; */
+
+/**/
+/*font-family: 'PT Sans', sans-serif; */

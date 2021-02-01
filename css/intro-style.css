@@ -1,0 +1,115 @@
+/*intro-style css*/
+
+h1{
+    font-family: 'Fjalla One', sans-serif;   
+    text-align: center; 
+}
+
+p{
+    font-family: 'Raleway', sans-serif;
+}
+
+body{
+    font-family: 'PT Sans', sans-serif;
+    background-color: white;
+    color: black;
+    margin: 0px auto;
+    background-image: url('/images/IMG_20191231_171904.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    }
+
+    
+.wrapper {
+        background-image: url('/images/IMG_20191231_171904.jpg');
+        background-position: 0% 50%;
+        background-attachment: fixed;
+        background-size: cover;
+        width: 900px;
+        margin: 1000px 0px 0px;
+    }
+
+ul{
+text-align: left;}
+li{
+    
+    list-style-type: '</> '; 
+    
+}
+
+
+section{
+    
+    text-align: center;
+    border-radius: 50px 100px;
+    margin: 10px;
+    padding: 15px;
+    
+}
+
+
+section.odd{
+    color: transparent;
+    color: rgb(255, 255, 255);
+    background-color:rgba(17,122,11, 0.7);
+    border: 1px solid rgb(255, 255, 255);
+}
+section.even{
+    color: transparent;
+    color:rgb(17,122,11);
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(17, 122, 11);
+    }
+    
+section.odd:hover{
+        font-size: 120%;
+        border: 3px dashed rgb(255, 255, 255);
+        margin: 0px;
+        width: 950px;
+}
+
+section.even:hover{
+    font-size: 120%;
+    border: 3px dashed rgb(17,122, 11);
+    margin: 0px;
+    width: 950px;
+}
+
+
+/* section.odd:first-of-type h2{
+    color: rgb(255, 255, 255);
+    background-color:rgba(17,122,11, 0.7);
+    border: 1px solid rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 50px 100px;
+    margin: 10px;
+    padding: 15px;
+}
+
+section.even:first-of-type h2{
+    background-color: tomato;
+    color:rgb(17,122,11);
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(17, 122, 11);
+    text-align: center;
+    border-radius: 50px 100px;
+    margin: 10px;
+    padding: 15px;
+} */
+
+/* font-family: 'Coda Caption', sans-serif;*/
+
+/*font-family: 'Raleway', sans-serif;*/
+
+
+/*bold*/
+/* font-family: 'Fjalla One', sans-serif; */
+
+/*light*/
+/* font-family: 'Open Sans', sans-serif; */
+
+/**/
+/*font-family: 'PT Sans', sans-serif; */
