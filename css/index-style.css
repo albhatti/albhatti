@@ -97,6 +97,6 @@ p{
 }
 /* above code is for original main paragraph after changing to consultation page*/
 
-.para2, para3, para4, para5{
+.para2 .para3 .para4 .para5{
     margin-top: 50px;
 }
