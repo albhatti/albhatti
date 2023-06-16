@@ -71,7 +71,7 @@ footer{
 /* above code is for the top navigation bar link which is hidden*/
 
 a:link{
-    color: rgb(255, 255, 255);
+    color: rgba(0, 255, 0);
     text-decoration: none;
 }
 /* above code is for links in paragraph*/
