@@ -85,10 +85,18 @@ p{
     padding: 20px;
     border-radius: 30px;
 }
+/*
 .para1{
     margin-top: 300px;
-}
+}/*
+/* above code is for original main paragraph before changing to consultation page*/
 
-.para2{
+.para1{
+    margin-top: 300px;
+    margin-bottom: 0px;
+}
+/* above code is for original main paragraph after changing to consultation page*/
+
+.para2, para3, para4, para5{
     margin-top: 50px;
 }
